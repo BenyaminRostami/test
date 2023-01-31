@@ -4,8 +4,13 @@ three
 four 
 <<<<<<< HEAD
 five
+<<<<<<< Updated upstream
 six
 seven 
 =======
 five
 >>>>>>> parent of 5131242 (add num 6)
+=======
+seven
+nine
+>>>>>>> Stashed changes
