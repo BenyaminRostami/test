@@ -3,4 +3,4 @@ green
 blue 
 yellow
 orange
-orange
+pink
