@@ -2,6 +2,10 @@ one
 tow
 three 
 four 
+<<<<<<< HEAD
 five
 six
 seven 
+=======
+five
+>>>>>>> parent of 5131242 (add num 6)
